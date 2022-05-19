@@ -1,0 +1,1 @@
+const input=fs.readFileSync('/dev/stdin').toString().trim().split(/\s+/)
